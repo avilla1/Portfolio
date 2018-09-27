@@ -31,7 +31,6 @@
     "string": "Bio"
   },
   "automaticallyDrawOnUnderlyingPath": false,
-  "booleanOperation": -1,
   "do_objectID": "24AC018D-9DDA-4D9D-A9F9-4C0AC38B513F",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -52,7 +51,6 @@
     "y": 33
   },
   "glyphBounds": "{{0, 2}, {17, 10}}",
-  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -67,9 +65,9 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "endMarkerType": 0,
+    "endDecorationType": 0,
     "miterLimit": 10,
-    "startMarkerType": 0,
+    "startDecorationType": 0,
     "textStyle": {
       "_class": "textStyle",
       "encodedAttributes": {
@@ -92,8 +90,7 @@
         }
       },
       "verticalAlignment": 0
-    },
-    "windingRule": 1
+    }
   },
   "textBehaviour": 2
 }

@@ -8,7 +8,6 @@
     "green": 1,
     "red": 1
   },
-  "booleanOperation": -1,
   "do_objectID": "FD0DA40D-1F1A-4192-A8CD-843C82450680",
   "exportOptions": {
     "_class": "exportOptions",
@@ -40,7 +39,6 @@
   },
   "includeBackgroundColorInExport": true,
   "includeInCloudUpload": true,
-  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isFlowHome": false,
@@ -58,7 +56,27 @@
     },
     {
       "class": "bitmap",
+      "id": "7D92B95E-89A2-4F26-8297-E66ACB3C2E75"
+    },
+    {
+      "class": "bitmap",
+      "id": "53FFAA62-0CF5-40FD-87C6-23ED9125635B"
+    },
+    {
+      "class": "bitmap",
+      "id": "FA6C0DEE-EBCD-4065-9B49-38898978E53C"
+    },
+    {
+      "class": "bitmap",
       "id": "83F29222-60F2-45C5-89D5-8F4E36C51BDD"
+    },
+    {
+      "class": "bitmap",
+      "id": "55A01CF9-F38F-4032-B79C-4C72F10AD43C"
+    },
+    {
+      "class": "bitmap",
+      "id": "0B3C1318-8006-43F0-822B-D96AF72F1306"
     }
   ],
   "name": "Mood board",
@@ -78,10 +96,9 @@
   "style": {
     "_class": "style",
     "do_objectID": "C04186F9-08F2-47F2-A17A-DBF2C386E10A",
-    "endMarkerType": 0,
+    "endDecorationType": 0,
     "miterLimit": 10,
-    "startMarkerType": 0,
-    "windingRule": 1
+    "startDecorationType": 0
   },
   "verticalRulerData": {
     "_class": "rulerData",

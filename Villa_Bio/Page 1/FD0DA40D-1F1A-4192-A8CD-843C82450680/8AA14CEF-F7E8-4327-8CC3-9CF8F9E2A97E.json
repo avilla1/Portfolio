@@ -31,7 +31,6 @@
     "string": "Fill sheet with stuff"
   },
   "automaticallyDrawOnUnderlyingPath": false,
-  "booleanOperation": -1,
   "do_objectID": "8AA14CEF-F7E8-4327-8CC3-9CF8F9E2A97E",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -54,7 +53,6 @@
     "y": 50
   },
   "glyphBounds": "{{1, 2}, {98, 10}}",
-  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -70,9 +68,9 @@
   "style": {
     "_class": "style",
     "do_objectID": "A15DD2C3-54FB-4B8B-9DD3-5FC6879C5913",
-    "endMarkerType": 0,
+    "endDecorationType": 0,
     "miterLimit": 10,
-    "startMarkerType": 0,
+    "startDecorationType": 0,
     "textStyle": {
       "_class": "textStyle",
       "do_objectID": "09511452-A699-40D6-86A7-3D0CD85D3237",
@@ -96,8 +94,7 @@
         }
       },
       "verticalAlignment": 0
-    },
-    "windingRule": 1
+    }
   },
   "textBehaviour": 2
 }
