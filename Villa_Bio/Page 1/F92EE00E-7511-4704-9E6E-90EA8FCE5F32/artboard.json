@@ -3,9 +3,9 @@
   "backgroundColor": {
     "_class": "color",
     "alpha": 1,
-    "blue": 1,
-    "green": 1,
-    "red": 1
+    "blue": 0.7294117647058823,
+    "green": 0.807843137254902,
+    "red": 0.8156862745098039
   },
   "do_objectID": "F92EE00E-7511-4704-9E6E-90EA8FCE5F32",
   "exportOptions": {
@@ -25,7 +25,7 @@
     "x": 48,
     "y": -118
   },
-  "hasBackgroundColor": false,
+  "hasBackgroundColor": true,
   "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -43,8 +43,12 @@
   "layerListExpandedType": 2,
   "layers": [
     {
+      "class": "bitmap",
+      "id": "F13410FE-1452-41A1-AF70-F30B71419FA9"
+    },
+    {
       "class": "text",
-      "id": "24AC018D-9DDA-4D9D-A9F9-4C0AC38B513F"
+      "id": "790EBA29-759E-42CF-AB6E-0B63EED3FE72"
     }
   ],
   "name": "Bios",

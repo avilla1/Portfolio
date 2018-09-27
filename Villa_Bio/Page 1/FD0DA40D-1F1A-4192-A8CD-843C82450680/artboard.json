@@ -3,10 +3,9 @@
   "backgroundColor": {
     "_class": "color",
     "alpha": 1,
-    "blue": 1,
-    "do_objectID": "8452D978-4402-42E2-AC40-518BA1A4F6C6",
-    "green": 1,
-    "red": 1
+    "blue": 0.7294117647058823,
+    "green": 0.807843137254902,
+    "red": 0.8156862745098039
   },
   "do_objectID": "FD0DA40D-1F1A-4192-A8CD-843C82450680",
   "exportOptions": {
@@ -28,8 +27,8 @@
     "x": 690,
     "y": -118
   },
-  "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasBackgroundColor": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -47,20 +46,32 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "text",
-      "id": "C5304569-5A3E-4A6A-B747-7EAA524012A4"
-    },
-    {
-      "class": "text",
-      "id": "8AA14CEF-F7E8-4327-8CC3-9CF8F9E2A97E"
+      "class": "bitmap",
+      "id": "9337E9DB-B890-4522-8C23-3AEB6CCC5510"
     },
     {
       "class": "bitmap",
-      "id": "7D92B95E-89A2-4F26-8297-E66ACB3C2E75"
+      "id": "31A73F80-5BEF-4C0E-A003-00C6CC1DF080"
     },
     {
       "class": "bitmap",
       "id": "53FFAA62-0CF5-40FD-87C6-23ED9125635B"
+    },
+    {
+      "class": "bitmap",
+      "id": "73CA24FC-5AFA-451F-AE98-2C625034ED38"
+    },
+    {
+      "class": "bitmap",
+      "id": "CB2AC0C9-6F24-40D6-885B-F92A4C1CF3DE"
+    },
+    {
+      "class": "bitmap",
+      "id": "252EFFF4-C3A6-4298-91D6-2641C3F62A7B"
+    },
+    {
+      "class": "bitmap",
+      "id": "7D92B95E-89A2-4F26-8297-E66ACB3C2E75"
     },
     {
       "class": "bitmap",
@@ -77,6 +88,18 @@
     {
       "class": "bitmap",
       "id": "0B3C1318-8006-43F0-822B-D96AF72F1306"
+    },
+    {
+      "class": "bitmap",
+      "id": "0538529C-6F59-46F4-8235-0FA78E08DF65"
+    },
+    {
+      "class": "bitmap",
+      "id": "09C1A2F7-66E4-4D62-B91F-4BA527FAD631"
+    },
+    {
+      "class": "text",
+      "id": "ED6CA58E-C9B6-4CBA-BF96-295BE6A7EB0C"
     }
   ],
   "name": "Mood board",
