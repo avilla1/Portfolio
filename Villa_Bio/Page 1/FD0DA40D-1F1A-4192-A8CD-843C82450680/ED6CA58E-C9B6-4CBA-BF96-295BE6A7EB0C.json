@@ -33,6 +33,7 @@
     "string": "Mood"
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
   "do_objectID": "ED6CA58E-C9B6-4CBA-BF96-295BE6A7EB0C",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -49,10 +50,11 @@
     "constrainProportions": false,
     "height": 56,
     "width": 195,
-    "x": -11.75809896108829,
-    "y": 47.74190103891171
+    "x": -9.75809896108829,
+    "y": 34.74190103891171
   },
   "glyphBounds": "{{3, 15}, {186, 48}}",
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -67,9 +69,9 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "encodedAttributes": {
@@ -94,7 +96,8 @@
         "textStyleVerticalAlignmentKey": 1
       },
       "verticalAlignment": 1
-    }
+    },
+    "windingRule": 1
   },
   "textBehaviour": 2
 }
