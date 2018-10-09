@@ -17,7 +17,7 @@
             "_class": "fontDescriptor",
             "attributes": {
               "name": "LemonMilklight",
-              "size": 64
+              "size": 48
             }
           },
           "paragraphStyle": {
@@ -26,19 +26,18 @@
           },
           "textStyleVerticalAlignmentKey": 1
         },
-        "length": 3,
+        "length": 4,
         "location": 0
       }
     ],
-    "string": "Bio"
+    "string": "Mood"
   },
   "automaticallyDrawOnUnderlyingPath": false,
-  "booleanOperation": 0,
-  "do_objectID": "790EBA29-759E-42CF-AB6E-0B63EED3FE72",
+  "do_objectID": "157FEC28-F957-429F-9308-D7364277B1DC",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "BF60D246-38D4-464E-9DF5-F11F63576426",
+    "do_objectID": "519DC2F5-E647-4F77-A58F-6BE896F67B08",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -49,35 +48,34 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "37427BBA-3F19-4855-A642-20E44056B358",
+    "do_objectID": "B1BEC50E-6359-4468-BCF9-22D96E88AC44",
     "height": 56,
-    "width": 102,
-    "x": 50,
-    "y": 208
+    "width": 146.9974746830583,
+    "x": -1.728291885461644,
+    "y": 43.77044545606752
   },
-  "glyphBounds": "{{3, 15}, {93, 48}}",
-  "isFixedToViewport": false,
+  "glyphBounds": "{{2, 11}, {140, 36}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Bio",
+  "name": "Mood",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
-  "rotation": 0,
+  "rotation": 45,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "C5B9CBAE-B2C4-48F5-9149-7EF3C02A1A4B",
-    "endMarkerType": 0,
+    "do_objectID": "3D735C78-9687-41AE-8D12-8A7D580F6C8A",
+    "endDecorationType": 0,
     "miterLimit": 10,
-    "startMarkerType": 0,
+    "startDecorationType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "CA9BCF65-88A9-44E5-BDC4-661D79C3D495",
+      "do_objectID": "BD49BBA4-69A7-4E22-AD8F-2E79DAB30AF5",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
@@ -90,7 +88,7 @@
           "_class": "fontDescriptor",
           "attributes": {
             "name": "LemonMilklight",
-            "size": 64
+            "size": 48
           }
         },
         "paragraphStyle": {
@@ -100,8 +98,7 @@
         "textStyleVerticalAlignmentKey": 1
       },
       "verticalAlignment": 1
-    },
-    "windingRule": 1
+    }
   },
   "textBehaviour": 2
 }

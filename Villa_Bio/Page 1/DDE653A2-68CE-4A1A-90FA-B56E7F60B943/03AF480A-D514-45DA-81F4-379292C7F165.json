@@ -1,10 +1,10 @@
 {
   "_class": "bitmap",
-  "booleanOperation": 0,
   "clippingMask": "{{0, 0}, {1, 1}}",
-  "do_objectID": "73CA24FC-5AFA-451F-AE98-2C625034ED38",
+  "do_objectID": "03AF480A-D514-45DA-81F4-379292C7F165",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "B28BEB0A-16E5-40A3-9EF5-E808FB6BDBA1",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,24 +16,24 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": true,
-    "height": 355,
-    "width": 355,
-    "x": 453.0244144945534,
-    "y": -3.827370813221762
+    "do_objectID": "09D01410-45C3-442A-B9AE-C6849B070086",
+    "height": 308,
+    "width": 461,
+    "x": -125,
+    "y": 344
   },
   "image": {
     "_class": "MSJSONFileReference",
-    "_ref": "images/0150476f2011c0faf0f168036e7f854586329691.png",
+    "_ref": "images/dc1d0938aa825d4fcac63c0c7be5445c27b3e9f0.png",
     "_ref_class": "MSImageData"
   },
   "intendedDPI": 72,
-  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "51eVepXkVML._SY355_",
+  "name": "IMG_3805",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -41,9 +41,9 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "endMarkerType": 0,
+    "do_objectID": "BE306F58-E053-4D97-9417-B538E38AB4C2",
+    "endDecorationType": 0,
     "miterLimit": 10,
-    "startMarkerType": 0,
-    "windingRule": 1
+    "startDecorationType": 0
   }
 }

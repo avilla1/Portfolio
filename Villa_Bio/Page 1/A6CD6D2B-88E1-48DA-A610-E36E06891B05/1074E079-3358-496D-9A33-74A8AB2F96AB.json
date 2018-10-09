@@ -1,10 +1,10 @@
 {
   "_class": "bitmap",
-  "booleanOperation": 0,
   "clippingMask": "{{0, 0}, {1, 1}}",
-  "do_objectID": "0B3C1318-8006-43F0-822B-D96AF72F1306",
+  "do_objectID": "1074E079-3358-496D-9A33-74A8AB2F96AB",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "7093D57C-A86C-4DEA-95BC-0578D5DEDE84",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,34 +16,34 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": true,
-    "height": 71,
-    "width": 209,
-    "x": 324.4949493661166,
-    "y": 130.4949493661167
+    "do_objectID": "C87E0769-A9F2-4FCA-978E-3F4799F2BF09",
+    "height": 180,
+    "width": 180,
+    "x": 31,
+    "y": 40
   },
   "image": {
     "_class": "MSJSONFileReference",
-    "_ref": "images/c1db84fde3e93a5f92d62f58ed0f5d6cbe4a4562.png",
+    "_ref": "images/f58e93243a7ebd170b3370ea65f3f8cc5390df13.png",
     "_ref_class": "MSImageData"
   },
-  "intendedDPI": 72,
-  "isFixedToViewport": false,
+  "intendedDPI": 144,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "nprlogo_blackoutline_custom-78c536fbe4dca66b6cf31cb462af2e3a74f55afb-s700-c85",
+  "name": "PortfolioPicXsmall",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
-  "rotation": 45,
+  "rotation": 0,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "endMarkerType": 0,
+    "do_objectID": "C0E44C5A-3F39-4610-8758-0FDC97B57B86",
+    "endDecorationType": 0,
     "miterLimit": 10,
-    "startMarkerType": 0,
-    "windingRule": 1
+    "startDecorationType": 0
   }
 }

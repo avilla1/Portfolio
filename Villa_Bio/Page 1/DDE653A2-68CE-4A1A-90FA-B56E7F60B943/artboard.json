@@ -4,14 +4,14 @@
     "_class": "color",
     "alpha": 1,
     "blue": 0.7294117647058823,
+    "do_objectID": "A1A47131-F44D-4F15-AAF1-C05D90D14326",
     "green": 0.807843137254902,
     "red": 0.8156862745098039
   },
-  "booleanOperation": 0,
-  "do_objectID": "FD0DA40D-1F1A-4192-A8CD-843C82450680",
+  "do_objectID": "DDE653A2-68CE-4A1A-90FA-B56E7F60B943",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "9A7117C8-6259-464C-B85D-4D7108F936F5",
+    "do_objectID": "AA7DAD5D-0084-4E11-B0E2-B25B0573DD58",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -22,24 +22,23 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "36EDE862-26C8-49BD-88BB-2CB87D320FA6",
+    "do_objectID": "C6980A19-6BCB-4F30-898E-BA902C30EE88",
     "height": 792,
     "width": 612,
-    "x": 690,
+    "x": 2044,
     "y": -118
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
-    "do_objectID": "7D950776-43BF-4379-B8D2-FB1FE8F61340",
+    "do_objectID": "1745EFB8-39E7-4CCE-8C18-677731A78BB3",
     "guides": [
     ]
   },
   "includeBackgroundColorInExport": true,
   "includeInCloudUpload": true,
-  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isFlowHome": false,
@@ -49,59 +48,59 @@
   "layers": [
     {
       "class": "bitmap",
-      "id": "9337E9DB-B890-4522-8C23-3AEB6CCC5510"
+      "id": "7A567B94-7EE4-4A7B-BF29-0BAFC308AFD0"
     },
     {
       "class": "bitmap",
-      "id": "31A73F80-5BEF-4C0E-A003-00C6CC1DF080"
+      "id": "CE262DDC-9F83-4115-AEB2-72476FD2E08F"
     },
     {
       "class": "bitmap",
-      "id": "53FFAA62-0CF5-40FD-87C6-23ED9125635B"
+      "id": "ECF3549A-2F15-452D-8B2A-A7FFBFBC3E21"
     },
     {
       "class": "bitmap",
-      "id": "73CA24FC-5AFA-451F-AE98-2C625034ED38"
+      "id": "B43830CC-D1EF-4EB7-BFCE-9CC374C30C45"
     },
     {
       "class": "bitmap",
-      "id": "CB2AC0C9-6F24-40D6-885B-F92A4C1CF3DE"
+      "id": "03AF480A-D514-45DA-81F4-379292C7F165"
     },
     {
       "class": "bitmap",
-      "id": "252EFFF4-C3A6-4298-91D6-2641C3F62A7B"
+      "id": "39BDBF5D-F40F-437A-A05A-B3F5A869380A"
     },
     {
       "class": "bitmap",
-      "id": "7D92B95E-89A2-4F26-8297-E66ACB3C2E75"
+      "id": "939404CB-04E6-469B-BC2D-809267D50A77"
     },
     {
       "class": "bitmap",
-      "id": "FA6C0DEE-EBCD-4065-9B49-38898978E53C"
+      "id": "03BE6522-F5DA-4C63-B1AB-26E9286AD8E4"
     },
     {
       "class": "bitmap",
-      "id": "83F29222-60F2-45C5-89D5-8F4E36C51BDD"
+      "id": "A256E81F-925D-4815-9374-6BF847A403FD"
     },
     {
       "class": "bitmap",
-      "id": "55A01CF9-F38F-4032-B79C-4C72F10AD43C"
+      "id": "9D9BEEAD-5366-484A-B9B7-A1B3E1A2202A"
     },
     {
       "class": "bitmap",
-      "id": "0B3C1318-8006-43F0-822B-D96AF72F1306"
+      "id": "E96F7578-5915-4285-9306-19457C340085"
     },
     {
       "class": "bitmap",
-      "id": "0538529C-6F59-46F4-8235-0FA78E08DF65"
+      "id": "2AF36700-1194-4FB8-B566-66A4257FC005"
     },
     {
       "class": "bitmap",
-      "id": "09C1A2F7-66E4-4D62-B91F-4BA527FAD631"
+      "id": "E6B1CC9C-1732-49AD-8ABD-02E9FC6D8B98"
     },
     {
       "class": "text",
-      "id": "ED6CA58E-C9B6-4CBA-BF96-295BE6A7EB0C"
+      "id": "157FEC28-F957-429F-9308-D7364277B1DC"
     }
   ],
   "name": "Mood board",
@@ -120,16 +119,15 @@
   "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
-    "do_objectID": "C04186F9-08F2-47F2-A17A-DBF2C386E10A",
-    "endMarkerType": 0,
+    "do_objectID": "AF402F1F-4D42-4AE3-9B8D-06BEA09470BA",
+    "endDecorationType": 0,
     "miterLimit": 10,
-    "startMarkerType": 0,
-    "windingRule": 1
+    "startDecorationType": 0
   },
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,
-    "do_objectID": "A68DC559-B673-43B3-A366-E6D4FD318EDB",
+    "do_objectID": "7A6AAE54-3FF6-41F8-8B08-243BAE20ABEA",
     "guides": [
     ]
   }

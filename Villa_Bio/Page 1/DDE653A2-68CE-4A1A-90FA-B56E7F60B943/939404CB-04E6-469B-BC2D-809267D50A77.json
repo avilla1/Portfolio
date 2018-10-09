@@ -1,10 +1,10 @@
 {
   "_class": "bitmap",
-  "booleanOperation": 0,
   "clippingMask": "{{0, 0}, {1, 1}}",
-  "do_objectID": "9337E9DB-B890-4522-8C23-3AEB6CCC5510",
+  "do_objectID": "939404CB-04E6-469B-BC2D-809267D50A77",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "B01DFEAE-FEFC-4493-9D13-4258EA7FE5DF",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,34 +16,34 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": true,
-    "height": 344.0314285714286,
-    "width": 612,
-    "x": 205.0081530851598,
-    "y": 511.9924387994456
+    "do_objectID": "B2D149D4-7A23-432F-AAE9-C3B7263FCEE7",
+    "height": 267,
+    "width": 208,
+    "x": 233.937860531805,
+    "y": 162.437860531805
   },
   "image": {
     "_class": "MSJSONFileReference",
-    "_ref": "images/f4fae067fcbc8e876b341792585de3fae894a6a4.png",
+    "_ref": "images/013d59541ca1a092a682f09ea766290c8f05351f.png",
     "_ref_class": "MSImageData"
   },
-  "intendedDPI": 72,
-  "isFixedToViewport": false,
+  "intendedDPI": 144,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "planetmoney",
+  "name": "Screen Shot 2018-09-27 at 1.06.50 PM",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
-  "rotation": 45,
+  "rotation": -45,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "endMarkerType": 0,
+    "do_objectID": "C316DB23-F1E7-40DD-A27D-0C01A641276E",
+    "endDecorationType": 0,
     "miterLimit": 10,
-    "startMarkerType": 0,
-    "windingRule": 1
+    "startDecorationType": 0
   }
 }

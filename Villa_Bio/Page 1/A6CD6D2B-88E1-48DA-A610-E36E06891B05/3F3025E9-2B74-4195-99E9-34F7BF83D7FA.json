@@ -17,7 +17,7 @@
             "_class": "fontDescriptor",
             "attributes": {
               "name": "LemonMilklight",
-              "size": 64
+              "size": 216
             }
           },
           "paragraphStyle": {
@@ -26,18 +26,18 @@
           },
           "textStyleVerticalAlignmentKey": 1
         },
-        "length": 4,
+        "length": 3,
         "location": 0
       }
     ],
-    "string": "Mood"
+    "string": "Bio"
   },
   "automaticallyDrawOnUnderlyingPath": false,
-  "booleanOperation": 0,
-  "do_objectID": "ED6CA58E-C9B6-4CBA-BF96-295BE6A7EB0C",
+  "do_objectID": "3F3025E9-2B74-4195-99E9-34F7BF83D7FA",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "9FFDEADC-20D7-4086-AF1D-5CA3BD1E1174",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -48,32 +48,34 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 56,
-    "width": 195,
-    "x": -9.75809896108829,
-    "y": 34.74190103891171
+    "do_objectID": "4853693B-6484-4C01-9CF3-5588724B83E5",
+    "height": 180,
+    "width": 331,
+    "x": 211,
+    "y": 57
   },
-  "glyphBounds": "{{3, 15}, {186, 48}}",
-  "isFixedToViewport": false,
+  "glyphBounds": "{{10, 52}, {314, 160}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Mood",
+  "name": "Bio",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
-  "rotation": 45,
+  "rotation": 0,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "endMarkerType": 0,
+    "do_objectID": "E234582F-7F32-4875-A924-9B1F35F17CE2",
+    "endDecorationType": 0,
     "miterLimit": 10,
-    "startMarkerType": 0,
+    "startDecorationType": 0,
     "textStyle": {
       "_class": "textStyle",
+      "do_objectID": "3E5A00EB-A15A-44D8-8427-947A95FCCB68",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
@@ -86,7 +88,7 @@
           "_class": "fontDescriptor",
           "attributes": {
             "name": "LemonMilklight",
-            "size": 64
+            "size": 216
           }
         },
         "paragraphStyle": {
@@ -96,8 +98,7 @@
         "textStyleVerticalAlignmentKey": 1
       },
       "verticalAlignment": 1
-    },
-    "windingRule": 1
+    }
   },
   "textBehaviour": 2
 }

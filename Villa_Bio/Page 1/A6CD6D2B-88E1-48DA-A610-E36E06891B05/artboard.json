@@ -4,13 +4,14 @@
     "_class": "color",
     "alpha": 1,
     "blue": 0.7294117647058823,
+    "do_objectID": "012F474A-DEDD-4538-BCF1-21716CE65D14",
     "green": 0.807843137254902,
     "red": 0.8156862745098039
   },
-  "booleanOperation": 0,
-  "do_objectID": "F92EE00E-7511-4704-9E6E-90EA8FCE5F32",
+  "do_objectID": "A6CD6D2B-88E1-48DA-A610-E36E06891B05",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "9F22BCA4-9F60-46E8-8FA6-E2DAC9E4F9D3",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -21,22 +22,23 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
+    "do_objectID": "68CDDA07-D850-477E-BEDA-9949691C887E",
     "height": 792,
     "width": 612,
-    "x": 48,
+    "x": 1402,
     "y": -118
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
+    "do_objectID": "9E61B018-4445-4F2C-B51C-0FF6242879C8",
     "guides": [
     ]
   },
   "includeBackgroundColorInExport": true,
   "includeInCloudUpload": true,
-  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isFlowHome": false,
@@ -46,15 +48,15 @@
   "layers": [
     {
       "class": "bitmap",
-      "id": "F13410FE-1452-41A1-AF70-F30B71419FA9"
+      "id": "1074E079-3358-496D-9A33-74A8AB2F96AB"
     },
     {
       "class": "text",
-      "id": "790EBA29-759E-42CF-AB6E-0B63EED3FE72"
+      "id": "3F3025E9-2B74-4195-99E9-34F7BF83D7FA"
     },
     {
       "class": "text",
-      "id": "6BCC09F9-B124-40AD-B7D4-21049C57432A"
+      "id": "EBB2C21E-7AEA-44B8-9296-34693041E4CC"
     }
   ],
   "name": "Bios",
@@ -73,14 +75,15 @@
   "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
-    "endMarkerType": 0,
+    "do_objectID": "1F9E5318-18B1-4019-8637-5C9CC825D512",
+    "endDecorationType": 0,
     "miterLimit": 10,
-    "startMarkerType": 0,
-    "windingRule": 1
+    "startDecorationType": 0
   },
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,
+    "do_objectID": "1D95B2E0-BFFC-439C-9D6D-68B2CAB9DD56",
     "guides": [
     ]
   }

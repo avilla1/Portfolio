@@ -1,10 +1,10 @@
 {
   "_class": "bitmap",
-  "booleanOperation": 0,
   "clippingMask": "{{0, 0}, {1, 1}}",
-  "do_objectID": "F13410FE-1452-41A1-AF70-F30B71419FA9",
+  "do_objectID": "A256E81F-925D-4815-9374-6BF847A403FD",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "A07A12B4-632A-4D48-9AEE-28A7A270E59F",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,34 +16,34 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": true,
-    "height": 180,
-    "width": 180,
-    "x": 11,
-    "y": 16
+    "do_objectID": "EC67A53F-C250-439F-A9A9-B11106A8F41A",
+    "height": 116,
+    "width": 116,
+    "x": 400.0243866176395,
+    "y": 168.0243866176395
   },
   "image": {
     "_class": "MSJSONFileReference",
-    "_ref": "images/f58e93243a7ebd170b3370ea65f3f8cc5390df13.png",
+    "_ref": "images/5098f305e31abd94f214ab1635c760b24fa2e889.png",
     "_ref_class": "MSImageData"
   },
-  "intendedDPI": 144,
-  "isFixedToViewport": false,
+  "intendedDPI": 72,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "PortfolioPicXsmall",
+  "name": "il_570xN.1641365407_flve",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
-  "rotation": 0,
+  "rotation": 45,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "endMarkerType": 0,
+    "do_objectID": "F67C36E7-9A2A-4139-83D2-BDEAD09F6C77",
+    "endDecorationType": 0,
     "miterLimit": 10,
-    "startMarkerType": 0,
-    "windingRule": 1
+    "startDecorationType": 0
   }
 }
