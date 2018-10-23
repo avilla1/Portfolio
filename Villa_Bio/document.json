@@ -33,7 +33,8 @@
     "version": 103
   },
   "pages": [
-    "Page 1"
+    "Bio|Mood",
+    "Style Tile"
   ],
   "userInfo": {
     "com.invisionlabs.sync": {

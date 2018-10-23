@@ -41,8 +41,8 @@
       "id": "DDE653A2-68CE-4A1A-90FA-B56E7F60B943"
     }
   ],
-  "name": "Page 1",
-  "nameIsFixed": false,
+  "name": "Bio|Mood",
+  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
