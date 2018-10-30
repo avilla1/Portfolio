@@ -9,37 +9,37 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 1,
-            "green": 1,
-            "red": 1
+            "blue": 0.3294117647058823,
+            "green": 0.407843137254902,
+            "red": 0.8
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
               "name": "LemonMilklight",
-              "size": 48
+              "size": 46
             }
           },
           "paragraphStyle": {
             "_class": "paragraphStyle",
-            "alignment": 0
+            "alignment": 3
           },
-          "textStyleVerticalAlignmentKey": 1
+          "textStyleVerticalAlignmentKey": 0
         },
-        "length": 4,
+        "length": 23,
         "location": 0
       }
     ],
-    "string": "Mood"
+    "string": "A tagline for the stars"
   },
   "automaticallyDrawOnUnderlyingPath": false,
-  "booleanOperation": 0,
+  "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "157FEC28-F957-429F-9308-D7364277B1DC",
+  "do_objectID": "106D420F-795D-47F0-8F49-D671F624BDC7",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "519DC2F5-E647-4F77-A58F-6BE896F67B08",
+    "do_objectID": "44E6201E-CC00-4050-89EE-D0A745F630FE",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -50,13 +50,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "B1BEC50E-6359-4468-BCF9-22D96E88AC44",
-    "height": 56,
-    "width": 146.9974746830583,
-    "x": -1.728291885461644,
-    "y": 43.77044545606752
+    "do_objectID": "A919E90A-4B0A-4C02-B65C-5A284767F23A",
+    "height": 53,
+    "width": 702,
+    "x": 18,
+    "y": 474
   },
-  "glyphBounds": "{{2, 11}, {140, 36}}",
+  "glyphBounds": "{{0, 10}, {525, 36}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -65,43 +65,61 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Mood",
+  "name": "A tagline for the st",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
-  "rotation": 45,
+  "rotation": 0,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "3D735C78-9687-41AE-8D12-8A7D580F6C8A",
+    "do_objectID": "8FE45C72-6987-4943-83A5-7DD991D353A7",
     "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.847,
+          "green": 0.847,
+          "red": 0.847
+        },
+        "fillType": 0,
+        "isEnabled": false,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "BD49BBA4-69A7-4E22-AD8F-2E79DAB30AF5",
+      "do_objectID": "19A7B77D-CCDF-4C58-8CE3-9ADCF345EE40",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 1,
-          "green": 1,
-          "red": 1
+          "blue": 0.3294117647058823,
+          "green": 0.407843137254902,
+          "red": 0.8
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
             "name": "LemonMilklight",
-            "size": 48
+            "size": 46
           }
         },
         "paragraphStyle": {
           "_class": "paragraphStyle",
-          "alignment": 0
+          "alignment": 3
         },
-        "textStyleVerticalAlignmentKey": 1
+        "textStyleVerticalAlignmentKey": 0
       },
-      "verticalAlignment": 1
+      "verticalAlignment": 0
     },
     "windingRule": 1
   },

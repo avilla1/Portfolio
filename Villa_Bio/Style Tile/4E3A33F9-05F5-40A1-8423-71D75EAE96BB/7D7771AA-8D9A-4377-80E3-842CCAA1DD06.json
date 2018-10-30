@@ -9,37 +9,36 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 1,
-            "green": 1,
-            "red": 1
+            "blue": 0.2313725490196079,
+            "green": 0.3019607843137254,
+            "red": 0.6980392156862745
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "LemonMilklight",
-              "size": 48
+              "name": "FilsonProLight",
+              "size": 18
             }
           },
           "paragraphStyle": {
             "_class": "paragraphStyle",
-            "alignment": 0
+            "alignment": 3
           },
-          "textStyleVerticalAlignmentKey": 1
+          "textStyleVerticalAlignmentKey": 0
         },
-        "length": 4,
+        "length": 5,
         "location": 0
       }
     ],
-    "string": "Mood"
+    "string": "Label"
   },
   "automaticallyDrawOnUnderlyingPath": false,
-  "booleanOperation": 0,
+  "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "157FEC28-F957-429F-9308-D7364277B1DC",
+  "do_objectID": "7D7771AA-8D9A-4377-80E3-842CCAA1DD06",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "519DC2F5-E647-4F77-A58F-6BE896F67B08",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -50,13 +49,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "B1BEC50E-6359-4468-BCF9-22D96E88AC44",
-    "height": 56,
-    "width": 146.9974746830583,
-    "x": -1.728291885461644,
-    "y": 43.77044545606752
+    "height": 25,
+    "width": 227,
+    "x": 18,
+    "y": 787
   },
-  "glyphBounds": "{{2, 11}, {140, 36}}",
+  "glyphBounds": "{{1, 5}, {44, 15}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -65,45 +63,43 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Mood",
+  "name": "Label",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
-  "rotation": 45,
+  "rotation": 0,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "3D735C78-9687-41AE-8D12-8A7D580F6C8A",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "BD49BBA4-69A7-4E22-AD8F-2E79DAB30AF5",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 1,
-          "green": 1,
-          "red": 1
+          "blue": 0.2313725490196079,
+          "green": 0.3019607843137254,
+          "red": 0.6980392156862745
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "LemonMilklight",
-            "size": 48
+            "name": "FilsonProLight",
+            "size": 18
           }
         },
         "paragraphStyle": {
           "_class": "paragraphStyle",
-          "alignment": 0
+          "alignment": 3
         },
-        "textStyleVerticalAlignmentKey": 1
+        "textStyleVerticalAlignmentKey": 0
       },
-      "verticalAlignment": 1
+      "verticalAlignment": 0
     },
     "windingRule": 1
   },
-  "textBehaviour": 2
+  "textBehaviour": 1
 }

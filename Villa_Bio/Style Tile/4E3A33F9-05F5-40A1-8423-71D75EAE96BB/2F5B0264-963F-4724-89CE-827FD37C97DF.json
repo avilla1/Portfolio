@@ -9,37 +9,37 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 1,
-            "green": 1,
-            "red": 1
+            "blue": 0.4431372549019608,
+            "green": 0.5254901960784314,
+            "red": 0.8941176470588236
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
               "name": "LemonMilklight",
-              "size": 48
+              "size": 80
             }
           },
           "paragraphStyle": {
             "_class": "paragraphStyle",
-            "alignment": 0
+            "alignment": 3
           },
-          "textStyleVerticalAlignmentKey": 1
+          "textStyleVerticalAlignmentKey": 0
         },
-        "length": 4,
+        "length": 14,
         "location": 0
       }
     ],
-    "string": "Mood"
+    "string": "Here’s my work"
   },
   "automaticallyDrawOnUnderlyingPath": false,
-  "booleanOperation": 0,
+  "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "157FEC28-F957-429F-9308-D7364277B1DC",
+  "do_objectID": "2F5B0264-963F-4724-89CE-827FD37C97DF",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "519DC2F5-E647-4F77-A58F-6BE896F67B08",
+    "do_objectID": "34FAD277-7D31-4D29-8785-45427A9B0B26",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -50,13 +50,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "B1BEC50E-6359-4468-BCF9-22D96E88AC44",
-    "height": 56,
-    "width": 146.9974746830583,
-    "x": -1.728291885461644,
-    "y": 43.77044545606752
+    "do_objectID": "B4F222E2-CC1B-4C92-8651-30DA0CC972EF",
+    "height": 86,
+    "width": 688,
+    "x": 17,
+    "y": 348
   },
-  "glyphBounds": "{{2, 11}, {140, 36}}",
+  "glyphBounds": "{{3, 16}, {596, 63}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -65,43 +65,61 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Mood",
+  "name": "Here’s my work",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
-  "rotation": 45,
+  "rotation": 0,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "3D735C78-9687-41AE-8D12-8A7D580F6C8A",
+    "do_objectID": "51849837-DC66-4A0C-AE46-31E04E9FDBA0",
     "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.847,
+          "green": 0.847,
+          "red": 0.847
+        },
+        "fillType": 0,
+        "isEnabled": false,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "BD49BBA4-69A7-4E22-AD8F-2E79DAB30AF5",
+      "do_objectID": "DC8FF296-9555-416E-96E0-69194466FDA4",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 1,
-          "green": 1,
-          "red": 1
+          "blue": 0.4431372549019608,
+          "green": 0.5254901960784314,
+          "red": 0.8941176470588236
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
             "name": "LemonMilklight",
-            "size": 48
+            "size": 80
           }
         },
         "paragraphStyle": {
           "_class": "paragraphStyle",
-          "alignment": 0
+          "alignment": 3
         },
-        "textStyleVerticalAlignmentKey": 1
+        "textStyleVerticalAlignmentKey": 0
       },
-      "verticalAlignment": 1
+      "verticalAlignment": 0
     },
     "windingRule": 1
   },

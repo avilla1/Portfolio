@@ -34,6 +34,8 @@
     "string": "Alicia Villa is one part journalist, one part designer and one part funny-woman based in the beautiful Pacific Northwest. Much to the disappointment of her parents, she holds a Bachelors in Visual Communication Design with a minor in Journalism from Eastern Washington University.  She is passionate about the role of digital media in society and aspires to be an enabler of the free press. \nSkills include user experience design, rapid prototyping, video editing, copy editing, both print and web layout and salsa-making. Right now Alicia is starting her dream of podcast production in the shape of Little Citizen, a how-to show about getting involved in civics. Her favorite podcast is Planet Money from NPR Boston and her favorite meal to make is Chili Verde with black beans and lime rice. In her free time Alicia likes to photograph local concerts and spend too much money on plants.\nHer love of the news was solidified as a student reporter at the Spokane Falls Community College (SFCC) newspaper, The Communicator, and later as a producer for The Current, a pilot television news program. She served as the SFCC Associated Student Government President from 2013 to 2014 where she became involved in state level civics. Alicia helped found the Washington Community and Technical College Student Association (WACTCSA) which lobbies for the sake of higher education issues in collaboration with the State Board of Community and Technical Colleges (SBCTC). The Council of Unions and Student Programs (CUSP) bestowed the Citizen Leadership award upon Alicia in 2015 for transitioning WACTCSA after leaving the organization."
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
   "do_objectID": "EBB2C21E-7AEA-44B8-9296-34693041E4CC",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -65,6 +67,8 @@
     "y": 237
   },
   "glyphBounds": "{{0, 5}, {550, 471}}",
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -80,9 +84,9 @@
   "style": {
     "_class": "style",
     "do_objectID": "78D95ADF-510F-41CB-8DAF-9C1F3F2EB3BD",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "do_objectID": "882ECB22-3B1F-474C-AC58-7EC21D0D53ED",
@@ -109,7 +113,8 @@
         }
       },
       "verticalAlignment": 0
-    }
+    },
+    "windingRule": 1
   },
   "textBehaviour": 2
 }
