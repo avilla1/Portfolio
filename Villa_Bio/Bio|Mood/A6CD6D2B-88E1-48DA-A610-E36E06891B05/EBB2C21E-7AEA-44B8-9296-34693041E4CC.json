@@ -40,6 +40,15 @@
     "_class": "exportOptions",
     "do_objectID": "7CE10588-39FA-43E1-BBF7-F1FA9DE40AF8",
     "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "pdf",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
     ],
     "includedLayerIds": [
     ],
